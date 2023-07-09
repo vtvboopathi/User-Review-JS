@@ -3,8 +3,8 @@
 const reviews = [
     {
         id: 1,
-        name: 'Boopathiraja',
-        user: 'rcb.jpeg',
+        name: 'ABD',
+        user: 'abd.webp',
         job: 'Fullstack Dev',
         info: 'quos fugiat, porro Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta hic distinctioculpa.',
     },
